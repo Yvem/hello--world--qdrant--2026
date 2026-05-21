@@ -1,0 +1,17 @@
+{
+  "name": "hello--world--qdrant--2026",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Offirmo <offirmo.net@gmail.com> (https://www.offirmo.net)",
+  "license": "Unlicense",
+  "packageManager": "pnpm@10.32.0",
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.18.0"
+  }
+}
